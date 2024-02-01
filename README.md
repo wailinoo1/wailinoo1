@@ -38,5 +38,6 @@ Languages and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/kubernetes.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/vmware.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/amazonaws.svg"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/6844498?v=4"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/nutanix.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/postman.svg"></code>
