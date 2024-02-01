@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**wailinoo1/wailinoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Cloud & DevOps Solutions enthusiast 🔭 adept at navigating multi-cloud environments, with a deep expertise in Kubernetes orchestration, seamless CI/CD integration, and the art of automation."
 
 Quote: 
