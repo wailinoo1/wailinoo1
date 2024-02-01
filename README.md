@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Wai Lin Oo
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wailinoo1" alt="WaiLin" /> </p>
 
 Cloud & DevOps Solutions enthusiast 🔭 adept at navigating multi-cloud environments, with a deep expertise in Kubernetes orchestration, seamless CI/CD integration, and the art of automation."
 
