@@ -17,7 +17,6 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/ansible.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/erlang.svg"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/2165682?s=200&v=4"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/8827988?s=200&v=4"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linux.svg"></code>
@@ -28,7 +27,6 @@ Languages and Tools:
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/5142645?s=200&v=4"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/elasticsearch.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/elasticstack.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/eclipsemosquitto.svg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/6178456?s=200&v=4"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/24291394?s=200&v=4"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/6748139?s=200&v=4"></code>
@@ -39,5 +37,4 @@ Languages and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/vmware.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/amazonaws.svg"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/6844498?v=4"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/nutanix.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/postman.svg"></code>
